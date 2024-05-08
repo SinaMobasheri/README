@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./cat.gif">
 
-A Coder, Programmer, Developer or an Engineer if you will, although I introduce
-myself as a Software Craftsman when it is appropriate.
+A Coder, Programmer, Developer, or an Engineer if you will, although I
+introduce myself as a Software Craftsman when it is appropriate.
 
 ## SOCIAL MEDIA
 - [GitHub](https://github.com/sinamobasheri/)
